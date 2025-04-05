@@ -10,3 +10,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
