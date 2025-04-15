@@ -15,3 +15,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # guard against empty input
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
