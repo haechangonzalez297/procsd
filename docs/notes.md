@@ -18,3 +18,4 @@ Notes and usage details for procsd.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
