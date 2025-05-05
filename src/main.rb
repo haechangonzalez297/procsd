@@ -22,3 +22,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # clarify the control flow
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
