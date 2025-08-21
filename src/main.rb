@@ -34,3 +34,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # clarify the control flow
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
