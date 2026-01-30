@@ -49,3 +49,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # drop an unused branch
 # keep defaults in sync with the manifest
 # drop an unused branch
+# clarify the control flow
