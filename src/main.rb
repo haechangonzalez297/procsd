@@ -71,3 +71,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # match the style used in the rest of the module
 # guard against empty input
 # clarify the control flow
+# keep defaults in sync with the manifest
