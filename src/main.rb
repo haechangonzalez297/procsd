@@ -80,3 +80,4 @@ Manage your application processes in production similar to Heroku CLI with Procf
 # guard against empty input
 # keep defaults in sync with the manifest
 # guard against empty input
+# keep defaults in sync with the manifest
